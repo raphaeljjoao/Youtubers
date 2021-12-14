@@ -1,0 +1,13 @@
+div.insert form input {
+	padding: 8px 10px;
+	width: 170px;
+}
+
+div.insert form input[type=submit]{
+	padding: 10px 12px;
+}
+
+table.youtubers tr td {
+	padding: 11px 25px;
+	width: 22.1%;
+}

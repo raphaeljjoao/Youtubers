@@ -1,0 +1,44 @@
+div.insert {
+	margin-bottom: 7px;
+	padding: 15px;
+}
+
+div.insert form input {
+	margin-bottom: 4px;
+	border: none;
+	box-shadow: none;
+}
+
+div.insert form input[type=submit]{
+	background-color: rgb(0,191,255);
+	border: none;
+	color: white;
+	font-weight: bold;
+}
+
+table.youtubers {
+	background-color: rgba(245,245,245, 0.85);
+	border-spacing: 0px;
+	border: 0.5px solid rgba(46, 46, 46, 0.6);
+}
+
+
+table.youtubers tr td {
+	border: 0.3px solid rgba(60, 60, 60, 0.1);
+	text-align: left;
+}
+
+table a {
+	color: #0085ff;
+}
+
+
+.sucess {
+	margin-top: 5px;
+	width: 90%;
+	color: #3c763d;
+	background-color: #dff0d8;
+	border: 1px solid transparent;
+	border-color: #d6e9c6;
+	padding: 13px;
+}

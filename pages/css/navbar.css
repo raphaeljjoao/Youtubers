@@ -1,0 +1,40 @@
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    min-width: 200px;
+    background-color: rgb(65,105,225);
+    position: absolute;
+    height: 2200px;
+    overflow: auto;
+}
+
+#navbar ul li.selected {
+	border-left: 3.3px solid white;
+    padding-left: -3.3px;
+}
+
+
+
+#navbar ul li a {
+	font-size: 1.09em;
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+#navbar ul li.item:hover {
+	opacity: 0.65;
+}
+
+
+#navbar a i {
+	margin-right: 4.33px;
+}
+
+#navbar ul li.last {
+	/*padding-bottom: 35.8%;*/
+}

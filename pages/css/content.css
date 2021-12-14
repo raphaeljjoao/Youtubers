@@ -1,0 +1,14 @@
+#page {
+
+	margin-left: 25%;
+	padding: 11.3px 16px;
+	float: left;
+	height: 1000px;
+}
+
+#page .stats {
+	background-color: white;
+	padding: 25px 40px;
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+	border: 1px solid #dddddd;
+}
